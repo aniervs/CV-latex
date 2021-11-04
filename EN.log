@@ -542,20 +542,20 @@ Overfull \hbox (3.3843pt too wide) in paragraph at lines 311--314
 [1
 
 ] (./EN.aux)
-Package rerunfilecheck Info: File `EN.out' has not changed.
-(rerunfilecheck)             Checksum: B6D4E920E7B965C446B4C3C5533B6212;1020.
+
+Package rerunfilecheck Warning: File `EN.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `EN.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  B6D4E920E7B965C446B4C3C5533B6212;1020.
  ) 
 Here is how much of TeX's memory you used:
  14205 strings out of 476473
  263574 string characters out of 5816481
- 666434 words of memory out of 5000000
+ 665227 words of memory out of 5000000
  34477 multiletter control sequences out of 15000+600000
- 404078 words of font info for 64 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 88i,13n,99p,385b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on EN.pdf (1 page).
-s out of 15000+600000
  404078 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  88i,13n,99p,385b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
