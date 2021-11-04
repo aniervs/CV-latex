@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.10.23)  24 OCT 2021 23:00
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.10.23)  5 NOV 2021 00:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -520,17 +520,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: images/Anier_Velasco.png Graphic file (type bmp)
 <images/Anier_Velasco.png>
 
-Overfull \hbox (1.60225pt too wide) in paragraph at lines 154--154
+Overfull \hbox (1.60225pt too wide) in paragraph at lines 163--163
 [][]| 
  []
 
 
-Overfull \hbox (2.18825pt too wide) in paragraph at lines 204--224
+Overfull \hbox (2.18825pt too wide) in paragraph at lines 213--233
 [] 
  []
 
 
-Overfull \hbox (3.3843pt too wide) in paragraph at lines 301--304
+Overfull \hbox (4.161pt too wide) in paragraph at lines 306--308
+\TU/EBGaramond(0)/m/n/10 I believe that having a solid understanding of the areas where
+ []
+
+
+Overfull \hbox (3.3843pt too wide) in paragraph at lines 311--314
 \TU/EBGaramond(0)/m/n/10 I have been interested in Mathematics and Computing from
  []
 
@@ -538,15 +543,21 @@ Overfull \hbox (3.3843pt too wide) in paragraph at lines 301--304
 
 ] (./EN.aux)
 Package rerunfilecheck Info: File `EN.out' has not changed.
-(rerunfilecheck)             Checksum: 9F471FFEE940AEF10BB71166C23CC7AF;947.
+(rerunfilecheck)             Checksum: B6D4E920E7B965C446B4C3C5533B6212;1020.
  ) 
 Here is how much of TeX's memory you used:
  14205 strings out of 476473
  263574 string characters out of 5816481
- 663360 words of memory out of 5000000
+ 666434 words of memory out of 5000000
  34477 multiletter control sequences out of 15000+600000
  404078 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,13n,99p,385b,582s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 88i,13n,99p,385b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on EN.pdf (1 page).
+s out of 15000+600000
+ 404078 words of font info for 64 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 88i,13n,99p,385b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on EN.pdf (1 page).
