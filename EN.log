@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.26)  27 APR 2022 19:45
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.26)  27 APR 2022 20:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -601,23 +601,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 58.
 
-Overfull \hbox (3.68175pt too wide) in paragraph at lines 123--124
-\TU/EBGaramond(0)/m/n/10 multiple ocassions. I was problem setter for the Ibero
-american Olympiad
- []
-
-
-Overfull \hbox (6.29825pt too wide) in paragraph at lines 208--231
+Overfull \hbox (14.87825pt too wide) in paragraph at lines 232--257
 [] 
  []
 
 
-Overfull \hbox (37.82825pt too wide) in paragraph at lines 300--311
-[] 
+Overfull \hbox (4.61098pt too wide) in paragraph at lines 299--300
+[]\TU/EBGaramond(0)/m/n/10 - Iberoamerican Olympiad in Informatics 2020 (CIIC 2
+020).
  []
 
 
-Overfull \hbox (14.87825pt too wide) in paragraph at lines 328--353
+Overfull \hbox (30.42825pt too wide) in paragraph at lines 321--338
 [] 
  []
 
@@ -625,15 +620,15 @@ Overfull \hbox (14.87825pt too wide) in paragraph at lines 328--353
 
 ] (./EN.aux)
 Package rerunfilecheck Info: File `EN.out' has not changed.
-(rerunfilecheck)             Checksum: 30E0A26AC6CA623D7D8BA447FA905A7E;1153.
+(rerunfilecheck)             Checksum: 764D1076D0852115D265C3AA9492B3B7;1065.
  ) 
 Here is how much of TeX's memory you used:
- 14613 strings out of 476179
- 280233 string characters out of 5809544
- 671514 words of memory out of 5000000
- 35191 multiletter control sequences out of 15000+600000
- 469907 words of font info for 65 fonts, out of 8000000 for 9000
+ 14611 strings out of 476179
+ 280138 string characters out of 5809544
+ 668405 words of memory out of 5000000
+ 35190 multiletter control sequences out of 15000+600000
+ 469899 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,13n,99p,357b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,13n,99p,357b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on EN.pdf (1 page).
