@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.26)  21 MAY 2022 16:24
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.4.26)  3 JUL 2022 02:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,43 +592,52 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 40.
 LaTeX Info: Redefining \pageref on input line 40.
 LaTeX Info: Redefining \nameref on input line 40.
- (./EN.out) (./EN.out)
 \@outlinefile=\write3
 \openout3 = `EN.out'.
+
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 58.
 
-Overfull \hbox (14.87825pt too wide) in paragraph at lines 264--289
+Overfull \hbox (21.92119pt too wide) in paragraph at lines 110--110
+[][][] \TU/EBGaramond(0)/m/n/10 harbour.space/computer-science/courses/basics-o
+f-algorithms-anier-velasco-
+ []
+
+
+Overfull \hbox (14.87825pt too wide) in paragraph at lines 237--262
 [] 
  []
 
 
-Overfull \hbox (4.61098pt too wide) in paragraph at lines 331--335
-[]\TU/EBGaramond(0)/m/n/10 - Iberoamerican Olympiad in Informatics 2020 (CIIC 2
-020).
- []
-
-
-Overfull \hbox (30.42825pt too wide) in paragraph at lines 350--367
+Overfull \hbox (30.42825pt too wide) in paragraph at lines 339--356
 [] 
  []
 
 [1
 
 ] (./EN.aux)
-Package rerunfilecheck Info: File `EN.out' has not changed.
-(rerunfilecheck)             Checksum: E58D6A3D40C17FCFCE5EE315F82C9A50;1153.
+
+Package rerunfilecheck Warning: File `EN.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `EN.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  BBE0977A2BE6EE2A919E227230C50270;984.
  ) 
 Here is how much of TeX's memory you used:
- 14611 strings out of 476179
- 280138 string characters out of 5809544
- 670514 words of memory out of 5000000
- 35190 multiletter control sequences out of 15000+600000
+ 14606 strings out of 476179
+ 280108 string characters out of 5809544
+ 667935 words of memory out of 5000000
+ 35189 multiletter control sequences out of 15000+600000
  469899 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,13n,99p,357b,578s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,13n,99p,357b,672s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on EN.pdf (1 page).

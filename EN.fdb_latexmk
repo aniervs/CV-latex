@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1653143066 "/Users/aniervs/CV-latex/EN.tex" "EN.pdf" "EN" 1653143066
-  "/Users/aniervs/CV-latex/EN.tex" 1653143066 14842 fe16067a2af8be492db3235442b50566 ""
+["pdflatex"] 1656807823 "/Users/aniervs/CV-latex/EN.tex" "EN.pdf" "EN" 1656807823
+  "/Users/aniervs/CV-latex/EN.tex" 1656807822 13979 11e1c03af6e86536823b89c30a27e34d ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls" 1636758526 20144 8a7de377ae7a11ee924a7499611f5a9d ""
@@ -18,8 +18,8 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1651005197 2826436 3f7c0b20112108a23996c9d5923ef68f ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "EN.aux" 1653143066 32 3985256e7290058c681f74d7a3565a19 ""
-  "EN.tex" 1653143066 14842 fe16067a2af8be492db3235442b50566 ""
+  "EN.aux" 1656807823 32 3985256e7290058c681f74d7a3565a19 ""
+  "EN.tex" 1656807822 13979 11e1c03af6e86536823b89c30a27e34d ""
   "FreemanCV.cls" 1651004498 9203 1e5aec6862b2f87dbf038f29abc8e7db ""
   (generated)
   "EN.log"
